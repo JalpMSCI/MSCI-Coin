@@ -1,2 +1,2 @@
 # MSCI-Coin
-Moneda virtual que toma el valor de una medida de riqueza no vinculada al momento en que se observe
+Virtual currency that takes the value of an independient measure of wealth no matters who, where or when it is being observed
